@@ -1,7 +1,5 @@
 const Calculator = function() {
-    this.evaluate = string => {
-      // do code here
-    }
+    // do code here
   };
 
 
