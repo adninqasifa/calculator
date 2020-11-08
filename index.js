@@ -2,8 +2,6 @@ const Calculator = function() {
     // do code here
   };
 
-  const calculate = new Calculator()
-
 // Test Function do not edit
 function Test(fun, result) {
     console.log(fun === result)
